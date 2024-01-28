@@ -1,2 +1,16 @@
-# JS-core-ES6-Array-Object-Arrays-of-methods-Find-the-Square-Root-of-positive-Numbers
-Module 3. JS Core. Lesson 18. Task 7. ECMAScript 6, The JavaScript Array Object. Arrays of methods. Destructuring assignment. Finding the Square Root of positive Numbers from the Array
+## Module 3. JS Core. Lesson 18. Task 7
+
+### ECMAScript 6 (ES6+). The JavaScript Array Object. The Arrays of methods. Destructuring assignment
+***
+
+### Finding the Square Root of positive Numbers of the Array
+
+**Task description:**
+
+- The given arr array of numbers.
+
+- Choose only positive numbers from it.
+
+- Calculate the square root of each of these numbers.
+
+- Output the result to the console.
