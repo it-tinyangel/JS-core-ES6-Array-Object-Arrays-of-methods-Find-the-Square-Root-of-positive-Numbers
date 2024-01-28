@@ -9,8 +9,8 @@
 
 - The given arr array of numbers.
 
-- Choose only positive numbers from it.
+- Select (filter) only positive numbers from it.
 
-- Calculate the square root of each of these numbers.
+- extract (calculate) the square root of each number.
 
 - Output the result to the console.
