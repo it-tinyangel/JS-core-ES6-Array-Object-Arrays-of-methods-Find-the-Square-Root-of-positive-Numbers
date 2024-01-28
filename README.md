@@ -11,6 +11,6 @@
 
 - Select (filter) only positive numbers from it.
 
-- extract (calculate) the square root of each number.
+- Calculate (extract) the square root of each number.
 
 - Output the result to the console.
