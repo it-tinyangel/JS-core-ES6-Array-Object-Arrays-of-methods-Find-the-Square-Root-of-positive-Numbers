@@ -10,11 +10,7 @@ console.log('Method filter and map:', result);
 /* Method forEach */
 result = [];
 
-arr.forEach(num => {
-	if (num > 0) {
-		result.push(Math.sqrt(num));
-	}
-});
+arr.forEach(num => (num > 0 ? result.push(Math.sqrt(num)) : false));
 
 console.log('Method forEach:', result);
 
