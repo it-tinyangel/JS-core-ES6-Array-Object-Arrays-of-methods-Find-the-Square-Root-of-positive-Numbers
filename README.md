@@ -3,7 +3,7 @@
 ### ECMAScript 6 (ES6+). The JavaScript Array Object. The Arrays of methods. Destructuring assignment
 ***
 
-### Finding the Square Root of positive Numbers of the Array
+### Finding the Square Root of the Array positive Numbers
 
 **Task description:**
 
